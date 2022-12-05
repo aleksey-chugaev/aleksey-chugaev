@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aleksey-chugaev
-- 👀 I’m interested in mobile development (Android and iOS) and gamedev
-- 🌱 I’m currently learning Unity3D
+- 👀 I’m interested in mobile development (Android and iOS)
 - 📫 How to reach me - aleksey.chugaev@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ...--->
 
